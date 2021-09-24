@@ -1,5 +1,5 @@
 # Hello-World
 
-Hello,
+Hello, 
 
-My name is Jake. I've been studying pregoramming for a couple of years. Mostly HTML.
+My name is Jake. I've been studying programming for a couple of years. Mostly HTML.
